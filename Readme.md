@@ -90,14 +90,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
-</p>
-
----
 
 ## 📫 Контакты
 
@@ -105,5 +97,5 @@
 - 💬 Telegram: [@manuchehrdev](https://t.me/manuchehrdev)
 - 💼 LinkedIn: [linkedin.com/in/manuchehr-barotov](https://www.linkedin.com/in/manuchehr-barotov-5aaa08444/)
 
-> Открыт к предложениям по **Java Backend (Junior)** — Spring, REST, PostgreSQL, микросервисы.#   m a n u c h e h r D e v  
- 
+> Открыт к предложениям по **Java Backend (Junior)** — Spring, REST, PostgreSQL, микросервисы.#   m a n u c h e h r D e v 
+ 
